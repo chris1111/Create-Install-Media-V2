@@ -28,6 +28,8 @@ Follow every steps in the Video
                
 [![Modular Image Creation](https://user-images.githubusercontent.com/6248794/105606989-488c4180-5d6a-11eb-86a1-04ac816c0525.png)](https://youtu.be/90-5_oOCwQM)
 
+[Download ➤ Create-Install-Media.dmg.zip](https://github.com/chris1111/Create-Install-Media-V2/releases/tag/V1)
+
 ### Real Mac users, you have not used the Clover Bootloader, as simple as that.
 
 * What you need
@@ -57,12 +59,6 @@ Move Create Install Media to Desktop
 ![Modular Image Creation](https://user-images.githubusercontent.com/6248794/105606757-34941000-5d69-11eb-964b-d19167d97720.png)
 
 
-Follow every steps in the Video
-               ⬇︎
-               
-[![Modular Image Creation](https://user-images.githubusercontent.com/6248794/105606989-488c4180-5d6a-11eb-86a1-04ac816c0525.png)](https://youtu.be/90-5_oOCwQM)
-
-
 ## Clover Install Choice:
 Clover UEFI: Only UEFI
 
@@ -73,7 +69,6 @@ Clover ESP: thats working for  EFI and Legacy config
 ![Modular Image Creation](https://user-images.githubusercontent.com/6248794/105606894-d0258080-5d69-11eb-8f48-1ea7d68f7075.png)
 
 
-[Download ➤ Create-Install-Media.dmg.zip]( )
 
 ### Post install Hackintosh
 - After installing macOS on your SSD, open the Create Install Media tools then select Clover Installer. This is to make the disk bootable without USB.
